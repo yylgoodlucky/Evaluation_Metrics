@@ -6,14 +6,14 @@ in this work, we released the following metrics for testing:
 2. PSNR
 3. FID
 4. Evaluation Metrics of image clarity:
-  1. SMD
-  2. SMD2
-  3. Brenner
-  4. Laplacian
-  5. Variance
-  6. Energy
-  7. Vollath
-  8. Entropy
+    1. SMD
+    2. SMD2
+    3. Brenner
+    4. Laplacian
+    5. Variance
+    6. Energy
+    7. Vollath
+    8. Entropy
 
 
 Illustrate:
