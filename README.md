@@ -1,40 +1,41 @@
 # Evaluation Metrics
 
-We released Evaluation Metrics for commmently used image metrics code to help test performance.
+We released Evaluation Metrics for commmently used image metrics code to help test performance.  
 in this work, we released the following metrics for testing:
-1, SSIM
-2, PSNR
-3, FID
-4, Evaluation Metrics of image clarity:
-  (1) SMD
-  (2) SMD2
-  (3) Brenner
-  (4) Laplacian
-  (5) Variance
-  (6) Energy
-  (7) Vollath
-  (8) Entropy
+1. SSIM
+2. PSNR
+3. FID
+4. Evaluation Metrics of image clarity:
+  1. SMD
+  2. SMD2
+  3. Brenner
+  4. Laplacian
+  5. Variance
+  6. Energy
+  7. Vollath
+  8. Entropy
 
 
 Illustrate:
-* SSIM: (structural similarity index measure), the larger the value of the structural similarity index.
+* SSIM: (structural similarity index measure), the larger the value of the structural similarity index.  
   The higher the similarity between the two signals.
 
-* PSNR: (Peak Signal to Noise Ratio), used to measure the difference between two images, such as a compressed image and an original image, to evaluate the quality of a compressed image; a restored image and ground truth, to evaluate the performance of a restoration algorithm, etc. 
+* PSNR: (Peak Signal to Noise Ratio), used to measure the difference between two images, such as a compressed image and an original image, to evaluate the quality of a compressed image; a restored image and ground truth, to evaluate the performance of a restoration algorithm, etc.  
   The larger the PSNR, the smaller the difference between the two images.
 
-* FID: represents the diversity and quality of the generated images.
+* FID: represents the diversity and quality of the generated images.  
   The better the image diversity, the better the quality.
 
-* (1) SMD
-  (2) SMD2
-  (3) Brenner
-  (4) Laplacian
-  (5) Variance
-  (6) Energy
-  (7) Vollath
-  (8) Entropy
-  Those metrics all represent image sharpness evaluation methods.
+* Image clarity  
+  (1) SMD  
+  (2) SMD2  
+  (3) Brenner  
+  (4) Laplacian  
+  (5) Variance  
+  (6) Energy  
+  (7) Vollath  
+  (8) Entropy  
+  Those metrics all represent image sharpness evaluation methods.  
   The larger the value, the higher the clarity.
 
 ### Recommondation of our works
